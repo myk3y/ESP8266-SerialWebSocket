@@ -17,7 +17,7 @@ const char* update_username = "admin";
 const char* update_password = "admin";
 
 
-WebSocketsServer webSocket = WebSocketsServer(81);
+WebSocketsServer webSocket = WebSocketsServer(8988);
 
 
 WiFiManager wifiManager;
